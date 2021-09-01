@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anatolygurbanov&theme=prussian&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anatolygurbanov&theme=prussian&show_icons=true&border_radius=16)
 
 <!--
 **AnatolyGurbanov/AnatolyGurbanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
