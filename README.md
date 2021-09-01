@@ -1,8 +1,14 @@
 ### Hello there 👋
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anatolygurbanov&theme=prussian&show_icons=true&border_radius=16)
+## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anatolygurbanov&layout=compact&theme=prussian&show_icons=true&border_radius=16)](https://github.com/anatolygurbanov)
+<a href="https://github.com/AnatolyGurbanov/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnatolyGurbanov&show_icons=true&line_height=20&count_private=true&theme=prussian" alt="Anatoly's GitHub Stats" />
+</a>
+
+<a href="https://github.com/AnatolyGurbanov/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolyGurbanov&&theme=prussian&langs_count=3" />
+</a>
 
 <!--
 **AnatolyGurbanov/AnatolyGurbanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
